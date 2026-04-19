@@ -1,11 +1,12 @@
 [
   {
-    "titulo": {
-      "es": "Soy Hincha de la Selección",
-      "en": "I'm a Fan of the National Team",
-      "pt": "Sou fã da seleção",
-      "zh": "我是国家队的球迷",
-      "ja": "私は代表チームのファンです"
+	"titulo": {
+	  "es": "La cuarta Estrella",
+	  "en": "The Fourth Star",
+	  "pt": "A quarta estrela",
+	  "zh": "第四颗星",
+	  "ja": "第四の星"
+
     },
     "pais": "Argentina",
     "letra": {
@@ -35,4 +36,22 @@
     },
     "url": "https://www.youtube.com/shorts/eV4NaqyItxA"
   }
+{
+  "titulo": {
+	"es": "Cuando juega Uruguay",
+	"en": "When Uruguay plays",
+	"pt": "Quando o Uruguai joga",
+	"zh": "乌拉圭比赛时",
+	"ja": "ウルグアイが試合をするとき"
+  },
+  "pais": "Uruguay",
+  "letra": {
+	"es": "Como un cielo",
+	"en": "Like a sky",
+	"pt": "Como um céu",
+	"zh": "如同天空",
+	"ja": "空のように"
+  },
+  "url": "https://www.youtube.com/watch?v=EeLhH_deakY"
+}
 ]
