@@ -1,7 +1,9 @@
 {
   "info": {
     "date_update": "2026-04-22",
-    "nro": 1
+    "nro": 1,
+    "urlPlayStore": "",
+    "habilitarCualquierFuente": true
   },
    "canciones": [
     {
