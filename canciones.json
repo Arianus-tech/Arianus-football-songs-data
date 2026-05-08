@@ -1,174 +1,1246 @@
 {
   "info": {
     "date_update": "2026-04-22",
-    "nro": 31,
-    "cant": 9,
+    "nro": 25,
+    "cant": 65,
     "nuevaVersion": false,
     "urlPlayStore": "https://github.com/Arianus-tech/Arianus-football-songs-data/blob/main/sitioPorHacer.png",
     "habilitarCualquierFuente": true
   },
    "canciones": [
-    {
-      "titulo": {
-        "es": "Cuando juega Uruguay",
-        "en": "When Uruguay plays",
-        "pt": "Quando o Uruguai joga",
-        "zh": "乌拉圭比赛时",
-        "ja": "ウルグアイが試合をするとき"
-      },
-      "pais": "Uruguay",
-      "letra": {
-        "es": "Como un cielo",
-        "en": "Like a sky",
-        "pt": "Como um céu",
-        "zh": "如同天空",
-        "ja": "空のように"
-      },
-      "url": "https://www.youtube.com/watch?v=EeLhH_deakY"
+"titulo": {
+"es": "Cuando juega Uruguay - (Jaime Roos)",
+"en": "When Uruguay plays - (Jaime Roos)",
+"pt": "Quando o Uruguai joga - (Jaime Roos)",
+"zh": "乌拉圭比赛时 - (Jaime Roos)",
+"ja": "ウルグアイが試合をするとき - (Jaime Roos)"
+},
+"pais": "Uruguay",
+"letra": {
+"es": "Como un cielo de verano\nComo el trueno de un tambor\nCon la cara del murguista\nCuando baja del camión...",
+"en": "Like a summer sky\nLike the thunder of a drum\nWith the face of the carnival performer\nWhen he gets off the truck...",
+"pt": "Como um céu de verão\nComo o trovão de um tambor\nCom o rosto do murguista\nQuando desce do caminhão...",
+"zh": "如同夏日的天空\n如同鼓声的雷鸣\n带着狂欢表演者的面容\n当他从卡车上下来时...",
+"ja": "夏の空のように\n太鼓の雷鳴のように\nカルナバルの演者の顔で\nトラックから降りるとき..."
+},
+"url": "https://www.youtube.com/watch?v=EeLhH_deakY",
+"nro": 1
+},
+{
+"titulo": {
+"es": "La cuarta Estrella - (Palmito)",
+"en": "The Fourth Star - (Palmito)",
+"pt": "A quarta estrela - (Palmito)",
+"zh": "第四颗星 - (Palmito)",
+"ja": "第四の星 - (Palmito)"
+},
+"pais": "Argentina",
+"letra": {
+"es": "Soy hincha de la Selección\nLa aliento con el corazón\nGanamos la tercera con Lionel\nQueremos ser campeones otra vez...",
+"en": "I'm a fan of the national team\nI cheer for it with all my heart\nWe won the third with Lionel\nWe want to be champions again...",
+"pt": "Sou fã da seleção\nTorço com o coração\nGanhamos a terceira com Lionel\nQueremos ser campeões outra vez...",
+"zh": "我是国家队的球迷\n我用全心为它加油\n我们和莱昂内尔一起赢得了第三次冠军\n我们想再次成为冠军...",
+"ja": "私は代表チームのファンです\n心から応援しています\nリオネルとともに3度目の優勝を果たしました\nもう一度チャンピオンになりたいです..."
+},
+"url": "https://www.youtube.com/shorts/rMzA7esUh1A",
+"nro": 2
+},
+{
+"titulo": {
+"es": "Vamos, Vamos, Argentina",
+"en": "Let's Go Argentina",
+"pt": "Vamos Argentina",
+"zh": "加油阿根廷",
+"ja": "行け行けアルゼンチン"
+},
+"pais": "Argentina",
+"letra": {
+"es": "Vamos, vamos, Argentina\nVamos, vamos a ganar\nQue esta banda quilombera\nNo te deja, no te deja de alentar...",
+"en": "Let's go, let's go, Argentina\nLet's go, let's go and win\nThis crazy crowd\nWon't stop, won't stop cheering for you...",
+"pt": "Vamos, vamos, Argentina\nVamos, vamos vencer\nEssa torcida animada\nNão para, não para de te apoiar...",
+"zh": "加油，加油，阿根廷\n加油，加油去赢\n这支热闹的球迷团\n不会停止，不会停止为你加油...",
+"ja": "行け、行け、アルゼンチン\n行け、行け、勝ちに行こう\nこの熱狂的な応援団は\n決して、決して応援をやめない..."
+},
+"url": "https://www.youtube.com/shorts/eV4NaqyItxA",
+"nro": 3
+},
+{
+"titulo": {
+"es": "Alma Argentina",
+"en": "Argentine Soul",
+"pt": "Alma Argentina",
+"zh": "阿根廷之魂",
+"ja": "アルゼンチンの魂"
+},
+"pais": "Argentina",
+"letra": {
+"es": "...Vaya al frente Argentina...",
+"en": "...Go forward Argentina...",
+"pt": "...Vá para frente Argentina...",
+"zh": "...勇往直前，阿根廷...",
+"ja": "...前へ進めアルゼンチン..."
+},
+"url": "https://www.youtube.com/watch?v=ww_W-7u-qlA&list=PLKgxOpWIE-q_2yU9hwNE0IxFGUvwj8lk7",
+"nro": 4
+},
+{
+"titulo": {
+"es": "No Veo La Hora Que Llegue El Domingo",
+"en": "I Can't Wait for Sunday to Come",
+"pt": "Não vejo a hora de chegar o domingo",
+"zh": "我等不及星期天到来",
+"ja": "日曜日が来るのが待ちきれない"
+},
+"pais": "River Plate",
+"letra": {
+"es": "No veo la hora\nQue llegue el domingo\nDejo todo lo que tengo que hacer\nMe voy a ver a River Plate",
+"en": "I can't wait\nFor Sunday to come\nI leave everything I have to do\nI'm going to see River Plate",
+"pt": "Não vejo a hora\nDe chegar o domingo\nDeixo tudo o que tenho que fazer\nVou ver o River Plate",
+"zh": "我等不及了\n星期天快点到来\n放下所有要做的事\n我要去看河床队",
+"ja": "待ちきれない\n日曜日が来るのを\nやるべきことは全部置いて\nリーベル・プレートを見に行く"
+},
+"url": "https://www.youtube.com/shorts/rAu-9lxgyDc",
+"nro": 5
+},
+{
+"titulo": {
+"es": "La mano de Dios",
+"en": "The Hand of God",
+"pt": "A mão de Deus",
+"zh": "上帝之手",
+"ja": "神の手"
+},
+"pais": "Maradona",
+"letra": {
+"es": "Olé, olé, olé, olé\nDiego, Diego...",
+"en": "Olé, olé, olé, olé\nDiego, Diego...",
+"pt": "Olé, olé, olé, olé\nDiego, Diego...",
+"zh": "Olé，olé，olé，olé\n迭戈，迭戈...",
+"ja": "オレ、オレ、オレ、オレ\nディエゴ、ディエゴ..."
+},
+"url": "https://www.youtube.com/watch?v=vmVtgmgLPzw&list=RDvmVtgmgLPzw&start_radio=1",
+"nro": 6
+},
+{
+"titulo": {
+"es": "Sin Escocia No Hay Fiesta",
+"en": "Without Scotland There Is No Party...",
+"pt": "Sem a Escócia não há festa...",
+"zh": "没有苏格兰就没有派对...",
+"ja": "スコットランドなしではパーティーはない..."
+},
+"pais": "Escocia",
+"letra": {
+"es": "In the land where thistles sway, and the sound of bagpipes play...",
+"en": "In the land where thistles sway, and the sound of bagpipes play...",
+"pt": "Na terra onde os cardos se movem, e o som das gaitas de foles toca...",
+"zh": "在蓟草摇曳的土地上，风笛声在回荡...",
+"ja": "アザミが揺れる国で、バグパイプの音が響く..."
+},
+"url": "https://www.youtube.com/watch?v=k1hhMTMM3to&list=RDk1hhMTMM3to&start_radio=1",
+"nro": 7
+},
+{
+"titulo": {
+"es": "Ole Ole Ola!",
+"en": "Ole Ole Ola!",
+"pt": "Ole Ole Ola!",
+"zh": "Ole Ole Ola！",
+"ja": "オレオレオラ！"
+},
+"pais": "Argentina",
+"letra": {
+"es": "Soy de Argentina, es un sentimiento no puedo parar...",
+"en": "I'm from Argentina, it's a feeling I can't stop...",
+"pt": "Sou da Argentina, é um sentimento que não posso parar...",
+"zh": "我是阿根廷人，这是一种无法停止的感觉...",
+"ja": "アルゼンチン出身だ、止められない気持ちがある..."
+},
+"url": "https://www.youtube.com/watch?v=YTnRlJTusME&list=RDYTnRlJTusME&start_radio=1",
+"nro": 8
+},
+{
+"titulo": {
+"es": "Corazón Verde y Amarillo",
+"en": "Green and Yellow Heart",
+"pt": "Coração Verde e Amarelo",
+"zh": "绿黄之心",
+"ja": "緑と黄色の心"
+},
+"pais": "Brasil",
+"letra": {
+"es": "La gente vibra, canta y se agita...",
+"en": "People vibrate, sing and get excited...",
+"pt": "A galera vibra, canta e se agita...",
+"zh": "人们在沸腾、歌唱、激动...",
+"ja": "人々は熱狂し、歌い、盛り上がる..."
+},
+"url": "https://www.youtube.com/watch?v=4BvVKAUwmnE&list=RD4BvVKAUwmnE&start_radio=1",
+"nro": 9
+},
+{
+"titulo": {
+"es": "¡Oh Canadá! ¡Jugaremos con orgullo por ti!",
+"en": "Oh Canada! We'll proudly play for you!",
+"pt": "Oh Canadá! Jogaremos com orgulho por você!",
+"zh": "哦，加拿大！我们将为你自豪地比赛！",
+"ja": "オー・カナダ！私たちはあなたのために誇りを持ってプレーします！"
+},
+"pais": "Canada",
+"letra": {
+"es": "1000 a 1 en las probabilidades,\nnos están dando...",
+"en": "1000 to 1 on the odds,\nthey're giving us...",
+"pt": "1000 para 1 nas probabilidades,\nestão nos dando...",
+"zh": "赔率是一千比一，\n他们给了我们...",
+"ja": "オッズは1000対1で、\n彼らは私たちに与えている..."
+},
+"url": "https://www.youtube.com/watch?v=XdTBJFFOKg4&list=RDXdTBJFFOKg4&start_radio=1",
+"nro": 10
+},
+{
+"titulo": {
+"es": "El estandarte estrellado",
+"en": "The Star-Spangled Banner",
+"pt": "A bandeira estrelada",
+"zh": "星条旗之歌",
+"ja": "星条旗"
+},
+"pais": "Estados Unidos",
+"letra": {
+"es": "Oh, decidme, ¿podéis ver al amanecer?",
+"en": "Oh, say can you see, by the dawn’s early light",
+"pt": "Oh, dizei, podeis ver ao amanhecer?",
+"zh": "哦，你可看见，在黎明的微光中",
+"ja": "おお、夜明けの光の中で見えるか"
+},
+"url": "https://www.youtube.com/watch?v=3AhRFOIs8ns",
+"nro": 11
+},
+{
+"titulo": {
+"es": "Dale México",
+"en": "Go Mexico",
+"pt": "Vamos México",
+"zh": "加油墨西哥",
+"ja": "行けメキシコ"
+},
+"pais": "Mexico",
+"letra": {
+"es": "Dale, Dale México\nDale, Dale México\nSi se puede ser Campeón...",
+"en": "Go, go Mexico\nGo, go Mexico\nYes, we can be champions...",
+"pt": "Vamos, vamos México\nVamos, vamos México\nSim, podemos ser campeões...",
+"zh": "加油，加油墨西哥\n加油，加油墨西哥\n我们可以成为冠军...",
+"ja": "行け、行けメキシコ\n行け、行けメキシコ\n優勝できるぞ..."
+},
+"url": "https://www.youtube.com/watch?v=CL_GPa5vTz0",
+"nro": 12
+},
+{
+"titulo": {
+"es": "Japón, precisión perfecta",
+"en": "Japan, Perfect Precision",
+"pt": "Japão, precisão perfeita",
+"zh": "日本，完美的精准",
+"ja": "日本 完璧な精度"
+},
+"pais": "Japon",
+"letra": {
+"es": "Velocidad, disciplina y trabajo en equipo: ¡esa es la esencia del fútbol japonés!",
+"en": "Speed, discipline, and teamwork — this is the essence of Japanese football!",
+"pt": "Velocidade, disciplina e trabalho em equipe — essa é a essência do futebol japonês!",
+"zh": "速度、纪律和团队合作——这就是日本足球的精髓！",
+"ja": "スピード、規律、そしてチームワーク――これが日本サッカーの真髄！"
+},
+"url": "https://www.youtube.com/watch?v=qq3ALmYfd58&list=RDqq3ALmYfd58&start_radio=1",
+"nro": 13
+},
+{
+"titulo": {
+"es": "Haka tradicional maorí de Nueva Zelanda",
+"en": "New Zealand Māori Traditional Haka",
+"pt": "Haka tradicional maori da Nova Zelândia",
+"zh": "新西兰毛利族传统哈卡舞",
+"ja": "ニュージーランドのマオリ伝統ハカ"
+},
+"pais": "Nueva Zelanda",
+"letra": {
+"es": "Ka mate! Ka mate!\nKa ora! Ka ora!\nKa mate! Ka mate!\nKa ora! Ka ora!",
+"en": "Ka mate! Ka mate!\nKa ora! Ka ora!\nKa mate! Ka mate!\nKa ora! Ka ora!",
+"pt": "Ka mate! Ka mate!\nKa ora! Ka ora!\nKa mate! Ka mate!\nKa ora! Ka ora!",
+"zh": "Ka mate! Ka mate!\nKa ora! Ka ora!\nKa mate! Ka mate!\nKa ora! Ka ora!",
+"ja": "カ・マテ！カ・マテ！\nカ・オラ！カ・オラ！\nカ・マテ！カ・マテ！\nカ・オラ！カ・オラ！"
+},
+"url": "https://www.youtube.com/watch?v=yiKFYTFJ_kw",
+"nro": 14
+},
+{
+"titulo": {
+"es": "Arash - Irán Irán",
+"en": "Arash - Iran Iran",
+"pt": "Arash - Irã Irã",
+"zh": "Arash - 伊朗伊朗",
+"ja": "アラシュ - イラン イラン"
+},
+"pais": "Iran",
+"letra": {
+"es": "Irán, Irán...\nUn canto de orgullo y unidad por la nación.",
+"en": "Iran, Iran...\nA chant of pride and unity for the nation.",
+"pt": "Irã, Irã...\nUm canto de orgulho e união pela nação.",
+"zh": "伊朗，伊朗……\n为国家骄傲与团结的呼声。",
+"ja": "イラン、イラン…\n国への誇りと団結の歌。"
+},
+"url": "https://www.youtube.com/watch?v=p4zIVyKoDH4&list=RDp4zIVyKoDH4&start_radio=1",
+"nro": 15
+},
+{
+"titulo": {
+"es": "¡Adelante Uzbekistán!",
+"en": "Forward Uzbekistan!",
+"pt": "Avante Uzbequistão!",
+"zh": "前进，乌兹别克斯坦！",
+"ja": "前へウズベキスタン！"
+},
+"pais": "Uzbekistan",
+"letra": {
+"es": "¡Adelante Uzbekistán!\nCon fuerza, orgullo y corazón en el juego.",
+"en": "Forward Uzbekistan!\nWith strength, pride, and heart in the game.",
+"pt": "Avante Uzbequistão!\nCom força, orgulho e coração no jogo.",
+"zh": "前进，乌兹别克斯坦！\n以力量、骄傲和热血投入比赛。",
+"ja": "前へウズベキスタン！\n力と誇り、そして心を込めて戦え。"
+},
+"url": "https://www.youtube.com/watch?v=Uc3rkgIQ_yE",
+"nro": 16
+},
+{
+"titulo": {
+"es": "La hinchada en Corea del Sur",
+"en": "South Korea Fan Chant",
+"pt": "Torcida da Coreia do Sul",
+"zh": "韩国球迷助威",
+"ja": "韓国の応援団"
+},
+"pais": "Corea del Sur",
+"letra": {
+"es": "¡Corea! ¡Corea!\nEl estadio vibra con pasión y unidad.",
+"en": "Korea! Korea!\nThe stadium shakes with passion and unity.",
+"pt": "Coreia! Coreia!\nO estádio vibra com paixão e união.",
+"zh": "韩国！韩国！\n球场充满激情与团结的呐喊。",
+"ja": "コリア！コリア！\nスタジアムは情熱と団結で揺れる。"
+},
+"url": "https://www.youtube.com/watch?v=qU90QocRVEE",
+"nro": 17
+},
+{
+"titulo": {
+"es": "Ole Ole Ola Corea",
+"en": "Ole Ole Ola Korea",
+"pt": "Ole Ole Ola Coreia",
+"zh": "Ole Ole Ola 韩国",
+"ja": "オレオレオラ韓国"
+},
+"pais": "Corea del Sur",
+"letra": {
+"es": "Ole, Ole, Ola Corea\nOle, Ole, Ola Corea\n¡Vamos con todo hasta el final!",
+"en": "Ole, Ole, Ola Korea\nOle, Ole, Ola Korea\nLet's go all the way to the end!",
+"pt": "Ole, Ole, Ola Coreia\nOle, Ole, Ola Coreia\nVamos com tudo até o final!",
+"zh": "Ole Ole Ola 韩国\nOle Ole Ola 韩国\n一路拼到底！",
+"ja": "オレ・オレ・オラ韓国\nオレ・オレ・オラ韓国\n最後まで全力で行こう！"
+},
+"url": "https://www.youtube.com/shorts/WInj_h-VKGE",
+"nro": 18
+},
+{
+"titulo": {
+"es": "Nashama",
+"en": "Nashama",
+"pt": "Nashama",
+"zh": "纳沙玛",
+"ja": "ナシャマ"
+},
+"pais": "Jordania",
+"letra": {
+"es": "Nashama, orgullo de Jordania\nLuchamos juntos hasta el final con honor.",
+"en": "Nashama, pride of Jordan\nWe fight together with honor until the end.",
+"pt": "Nashama, orgulho da Jordânia\nLutamos juntos com honra até o fim.",
+"zh": "纳沙玛，约旦的骄傲\n我们团结战斗直到最后。",
+"ja": "ナシャマ、ヨルダンの誇り\n最後まで誇りを持って共に戦う。"
+},
+"url": "https://www.youtube.com/watch?v=IlRmXJzXd0U",
+"nro": 19
+},
+{
+"titulo": {
+"es": "Arenas del valor",
+"en": "Sands of Courage",
+"pt": "Areias da coragem",
+"zh": "勇气之沙",
+"ja": "勇気の砂"
+},
+"pais": "Jordania",
+"letra": {
+"es": "En las arenas del valor,\nJordania se levanta con fuerza y honor.",
+"en": "In the sands of courage,\nJordan rises with strength and honor.",
+"pt": "Nas areias da coragem,\nA Jordânia se levanta com força e honra.",
+"zh": "在勇气的沙漠中，\n约旦以力量与荣耀崛起。",
+"ja": "勇気の砂の中で、\nヨルダンは力と誇りとともに立ち上がる。"
+},
+"url": "https://www.youtube.com/watch?v=1-5jd-ZxgOU&list=RD1-5jd-ZxgOU&start_radio=1",
+"nro": 20
+},
+{
+"titulo": {
+"es": "Canción para los Socceroos",
+"en": "Song for the Socceroos",
+"pt": "Canção para os Socceroos",
+"zh": "致袋鼠军团之歌",
+"ja": "サッカールーズのための歌"
+},
+"pais": "Australia",
+"letra": {
+"es": "Socceroos, orgullo de Australia\nJugamos juntos con fuerza y pasión.",
+"en": "Socceroos, pride of Australia\nWe play together with strength and passion.",
+"pt": "Socceroos, orgulho da Austrália\nJogamos juntos com força e paixão.",
+"zh": "袋鼠军团，澳大利亚的骄傲\n我们以力量与激情并肩作战。",
+"ja": "サッカールーズ、オーストラリアの誇り\n力と情熱で共に戦う。"
+},
+"url": "https://youtu.be/oovvp9tV9sM?t=40",
+"nro": 21
+},
+{
+"titulo": {
+"es": "¡Vamos Brasil!",
+"en": "Go Brazil!",
+"pt": "Pra frente Brasil!",
+"zh": "前进巴西！",
+"ja": "前へブラジル！"
+},
+"pais": "Brasil",
+"letra": {
+"es": "¡Pra frente Brasil!\nJugamos con alegría, fuerza y corazón.",
+"en": "Go forward Brazil!\nWe play with joy, strength and heart.",
+"pt": "Pra frente Brasil!\nJogamos com alegria, força e coração.",
+"zh": "前进巴西！\n我们以快乐、力量与热血比赛。",
+"ja": "前へブラジル！\n喜びと力と心で戦う。"
+},
+"url": "https://www.youtube.com/watch?v=5W_7VfBl_bc",
+"nro": 22
+},
+{
+"titulo": {
+"es": "Late fuerte el corazón",
+"en": "The Heart Beats Strong",
+"pt": "O coração bate forte",
+"zh": "心跳得很强烈",
+"ja": "心臓が強く鼓動する"
+},
+"pais": "Ecuador",
+"letra": {
+"es": "Late fuerte el corazón\nEcuador en la cancha con orgullo y pasión.",
+"en": "The heart beats strong\nEcuador on the pitch with pride and passion.",
+"pt": "O coração bate forte\nEquador em campo com orgulho e paixão.",
+"zh": "心脏在强烈跳动\n厄瓜多尔在球场上充满骄傲与激情。",
+"ja": "心臓が強く鼓動する\nエクアドルは誇りと情熱でピッチに立つ。"
+},
+"url": "https://www.youtube.com/watch?v=qzDgMIykDHw",
+"nro": 23
+},
+{
+"titulo": {
+"es": "¡Vamos Ecuador! (Cuando juega La Tri)",
+"en": "Come on Ecuador (When La Tri plays)",
+"pt": "Vamos Equador (Quando a Tri joga)",
+"zh": "加油厄瓜多尔（当三色队比赛时）",
+"ja": "頑張れエクアドル（ラ・トリが試合するとき）"
+},
+"pais": "Ecuador",
+"letra": {
+"es": "¡Vamos, vamos Ecuador!\nLate fuerte el corazón\nAmarillo, azul y rojo mirando al astro sol...",
+"en": "Come on, come on Ecuador!\nThe heart beats strong\nYellow, blue and red facing the shining sun...",
+"pt": "Vamos, vamos Equador!\nO coração bate forte\nAmarelo, azul e vermelho olhando para o sol...",
+"zh": "加油，加油厄瓜多尔！\n心脏在强烈跳动\n黄、蓝、红迎向太阳...",
+"ja": "頑張れ、頑張れエクアドル！\n心臓が強く鼓動する\n黄・青・赤が太陽に向かう..."
+},
+"url": "https://www.youtube.com/watch?v=v9keW28pL5w&list=RDv9keW28pL5w&start_radio=1",
+"nro": 24
+},
+{
+"titulo": {
+"es": "Descolgando el Cielo",
+"en": "Hanging Down the Sky",
+"pt": "Descendo do Céu",
+"zh": "从天空垂落",
+"ja": "空から降りてくる"
+},
+"pais": "Uruguay",
+"letra": {
+"es": "Soy celeste, soy celeste\nSomos de la sangre del Maracaná\nY somos la locura que picó el penal...",
+"en": "I am sky blue, I am sky blue\nWe come from the blood of the Maracanã\nAnd we are the madness that took the penalty...",
+"pt": "Sou celeste, sou celeste\nSomos do sangue do Maracanã\nE somos a loucura que bateu o pênalti...",
+"zh": "我是天蓝色，我是天蓝色\n我们来自马拉卡纳的血脉\n我们是罚进点球的疯狂...",
+"ja": "私はスカイブルー、私はスカイブルー\nマラカナンの血から生まれた\nそしてPKを決めた狂気だ..."
+},
+"url": "https://www.youtube.com/watch?v=4X8Dw19On1w&list=RDEMGP9IjcKAQOnDs6ccVy4cuA&start_radio=1&rv=M9Wc5FeznZ0",
+"nro": 25
+},
+{
+"titulo": {
+"es": "El ritmo que nos une",
+"en": "The Rhythm That Unites Us",
+"pt": "O ritmo que nos une",
+"zh": "将我们团结的节奏",
+"ja": "私たちをつなぐリズム"
+},
+"pais": "Colombia",
+"letra": {
+"es": "Mami, prenda la radio, encienda la tele\nY no me molesten, que hoy juega La Sele",
+"en": "Mom, turn on the radio, turn on the TV\nAnd don't bother me, today La Sele is playing",
+"pt": "Mãe, liga o rádio, liga a TV\nE não me incomodem, hoje joga a seleção",
+"zh": "妈妈，打开收音机，打开电视\n别打扰我，今天国家队比赛",
+"ja": "ママ、ラジオをつけて、テレビをつけて\n今日は代表戦だから邪魔しないで"
+},
+"url": "https://www.youtube.com/watch?v=6Y1dtxb-2lE",
+"nro": 26
+},
+{
+"titulo": {
+"es": "Soy Albirrojo (Che ha’e albirrojo.)",
+"en": "I Am Red and White",
+"pt": "Sou Alvirrubro",
+"zh": "我是红白军团",
+"ja": "私は赤と白"
+},
+"pais": "Paraguay",
+"letra": {
+"es": "Desde que nací\nSoy Albirrojo\nMi corazón es blanco y rojo",
+"en": "Since I was born\nI am red and white\nMy heart is white and red",
+"pt": "Desde que nasci\nSou alvirrubro\nMeu coração é branco e vermelho",
+"zh": "从我出生起\n我是红白军团\n我的心是红白的",
+"ja": "生まれた時から\n私は赤と白\n心は白と赤でできている"
+},
+"url": "https://www.youtube.com/watch?v=VVYpBLKbSg8",
+"nro": 27
+},
+{
+"titulo": {
+"es": "¡Adelante Albirroja, adelante!\n(¡Eñemotenonde Albirroja, eñemotenonde!)",
+"en": "Go Red and White, Go Forward!",
+"pt": "Avante Albirroja, avante!",
+"zh": "前进红白军团！",
+"ja": "進めアルビロハ！"
+},
+"pais": "Paraguay",
+"letra": {
+"es": "¡Adelante Albirroja, adelante!\nCon garra, orgullo y corazón en la cancha.",
+"en": "Go Red and White, go forward!\nWith grit, pride, and heart on the pitch.",
+"pt": "Avante Albirroja, avante!\nCom garra, orgulho e coração em campo.",
+"zh": "前进红白军团！\n以拼搏、骄傲与热血战斗。",
+"ja": "進めアルビロハ！\n気迫と誇りと心でピッチに立つ。"
+},
+"url": "https://youtu.be/SPiRau7ZC0I?t=22",
+"nro": 28
+},
+{
+"titulo": {
+"es": "¡Marruecos por siempre!",
+"en": "Morocco Forever!",
+"pt": "Marrocos para sempre!",
+"zh": "摩洛哥永远！",
+"ja": "モロッコよ永遠に！"
+},
+"pais": "Marruecos",
+"letra": {
+"es": "¡Marruecos por siempre!\nOrgullo, pasión y fuerza en cada partido.",
+"en": "Morocco forever!\nPride, passion and strength in every match.",
+"pt": "Marrocos para sempre!\nOrgulho, paixão e força em cada jogo.",
+"zh": "摩洛哥永远！\n每一场比赛都充满骄傲、激情与力量。",
+"ja": "モロッコよ永遠に！\nすべての試合に誇りと情熱と力を。"
+},
+"url": "https://www.youtube.com/watch?v=w9KJ0enSmpI&list=RDw9KJ0enSmpI&start_radio=1",
+"nro": 29
+},
+{
+"titulo": {
+"es": "Águilas de Cartago (Himno de fútbol de Túnez)",
+"en": "Aigles de Carthage (Tunisia Football Anthem)",
+"pt": "Águias de Cartago (Hino de futebol da Tunísia)",
+"zh": "迦太基雄鹰（突尼斯足球队队歌）",
+"ja": "カルタゴの鷲（チュニジア代表サッカーアンセム）"
+},
+"pais": "Túnez",
+"letra": {
+"es": "Águilas de Cartago, himno de fútbol de Túnez\nOrgullo de la nación, fuerza y pasión en la cancha.",
+"en": "Eagles of Carthage, Tunisia football anthem\nPride of the nation, strength and passion on the pitch.",
+"pt": "Águias de Cartago, hino de futebol da Tunísia\nOrgulho da nação, força e paixão em campo.",
+"zh": "迦太基雄鹰，突尼斯足球队队歌\n国家的骄傲，球场上的力量与激情。",
+"ja": "カルタゴの鷲、チュニジアのサッカーアンセム\n国の誇り、ピッチでの力と情熱。"
+},
+"url": "https://www.youtube.com/watch?v=X_bdniZZmEM",
+"nro": 30
+},
+{
+"titulo": {
+"es": "Egipto: El camino del campeón",
+"en": "Egypt: The Path of the Champion",
+"pt": "Egito: O caminho do campeão",
+"zh": "埃及：冠军之路",
+"ja": "エジプト：チャンピオンへの道"
+},
+"pais": "Egipto",
+"letra": {
+"es": "Egipto, el camino del campeón\nFuerza, historia y orgullo en la cancha.",
+"en": "Egypt, the path of the champion\nStrength, history and pride on the pitch.",
+"pt": "Egito, o caminho do campeão\nForça, história e orgulho em campo.",
+"zh": "埃及，冠军之路\n力量、历史与球场上的骄傲。",
+"ja": "エジプト、チャンピオンへの道\n力と歴史と誇りをピッチに。"
+},
+"url": "https://www.youtube.com/watch?v=t5wZzf10B0w&list=RDt5wZzf10B0w&start_radio=1",
+"nro": 31
+},
+{
+"titulo": {
+"es": "Hinchas de Egipto - Mundial Rusia 2018",
+"en": "Egypt Fans - Russia World Cup 2018",
+"pt": "Torcida do Egito - Copa do Mundo Rússia 2018",
+"zh": "埃及球迷 - 2018俄罗斯世界杯",
+"ja": "エジプトのサポーター - 2018ロシアW杯"
+},
+"pais": "Egipto",
+"letra": {
+"es": "Sin letra (cánticos de estadio y ambiente de hinchada)",
+"en": "No lyrics (stadium chants and fan atmosphere)",
+"pt": "Sem letra (cantos de estádio e ambiente de torcida)",
+"zh": "无歌词（球场助威与球迷氛围）",
+"ja": "歌詞なし（スタジアムの応援と雰囲気）"
+},
+"url": "https://www.youtube.com/watch?v=cv7FLI9b7bw",
+"nro": 32
+},
+{
+"titulo": {
+"es": "¡Viva Argelia!",
+"en": "Long Live Algeria!",
+"pt": "Viva a Argélia!",
+"zh": "阿尔及利亚万岁！",
+"ja": "アルジェリア万歳！"
+},
+"pais": "Argelia",
+"letra": {
+"es": "¡Viva Argelia!\nOrgullo, pasión y fuerza en cada partido.",
+"en": "Long live Algeria!\nPride, passion and strength in every match.",
+"pt": "Viva a Argélia!\nOrgulho, paixão e força em cada jogo.",
+"zh": "阿尔及利亚万岁！\n每一场比赛都充满骄傲、激情与力量。",
+"ja": "アルジェリア万歳！\nすべての試合に誇りと情熱と力を。"
+},
+"url": "https://www.youtube.com/watch?v=PYqUkQKI5bQ&list=PLXCfiYUDSM_LWqru8AtUmZIgB_wU9g1MT",
+"nro": 33
+},
+{
+"titulo": {
+"es": "Canto de los Black Stars",
+"en": "Black Stars Cheer Song",
+"pt": "Canção da torcida dos Black Stars",
+"zh": "黑星队助威歌",
+"ja": "ブラックスターズ応援ソング"
+},
+"pais": "Ghana",
+"letra": {
+"es": "Black Stars de Ghana\nOrgullo, fuerza y pasión en la cancha.",
+"en": "Black Stars of Ghana\nPride, strength and passion on the pitch.",
+"pt": "Black Stars de Gana\nOrgulho, força e paixão em campo.",
+"zh": "加纳黑星队\n球场上的骄傲、力量与激情。",
+"ja": "ガーナのブラックスターズ\nピッチでの誇りと力と情熱。"
+},
+"url": "https://www.youtube.com/watch?v=U4lLor7J5nI",
+"nro": 34
+},
+{
+"titulo": {
+"es": "Canción de la selección de Cabo Verde",
+"en": "Cabo Verde Football Team Song",
+"pt": "Canção da seleção de Cabo Verde",
+"zh": "佛得角国家队之歌",
+"ja": "カーボベルデ代表チームの歌"
+},
+"pais": "Cabo Verde",
+"letra": {
+"es": "Cabo Verde en la cancha\nOrgullo, unión y pasión en cada partido.",
+"en": "Cabo Verde on the pitch\nPride, unity and passion in every match.",
+"pt": "Cabo Verde em campo\nOrgulho, união e paixão em cada jogo.",
+"zh": "佛得角在球场上\n每一场比赛都充满骄傲与团结。",
+"ja": "カーボベルデはピッチに立つ\n誇りと団結と情熱をすべての試合に。"
+},
+"url": "https://www.youtube.com/watch?v=_KwYBbzybik",
+"nro": 35
+},
+{
+"titulo": {
+"es": "Sudáfrica celebra su clasificación al Mundial",
+"en": "South Africa celebrates World Cup qualification",
+"pt": "África do Sul celebra a classificação para a Copa do Mundo",
+"zh": "南非庆祝晋级世界杯",
+"ja": "南アフリカのワールドカップ出場決定の祝賀"
+},
+"pais": "Sudáfrica",
+"letra": {
+"es": "Sudáfrica celebra con orgullo\nLa clasificación al Mundial se festeja con pasión.",
+"en": "South Africa celebrates with pride\nWorld Cup qualification is celebrated with passion.",
+"pt": "A África do Sul celebra com orgulho\nA classificação para a Copa do Mundo é festejada com paixão.",
+"zh": "南非自豪庆祝\n世界杯晋级充满激情与喜悦。",
+"ja": "南アフリカは誇りを持って祝う\nワールドカップ出場を情熱とともに祝福する。"
+},
+"url": "https://www.youtube.com/shorts/rmD3FHRBBgc",
+"nro": 36
+},
+{
+"titulo": {
+"es": "Himno de Catar",
+"en": "Anthem of Qatar",
+"pt": "Hino do Catar",
+"zh": "卡塔尔国歌/队歌",
+"ja": "カタールのアンセム"
+},
+"pais": "Qatar",
+"letra": {
+"es": "Catar en la cancha\nOrgullo, unidad y pasión representando a la nación.",
+"en": "Qatar on the pitch\nPride, unity and passion representing the nation.",
+"pt": "Catar em campo\nOrgulho, união e paixão representando a nação.",
+"zh": "卡塔尔在球场上\n以骄傲、团结与激情代表国家。",
+"ja": "カタールはピッチに立つ\n誇りと団結と情熱で国を代表する。"
+},
+"url": "https://www.youtube.com/watch?v=sj3QnNOxb7g&list=RDsj3QnNOxb7g&start_radio=1",
+"nro": 37
+},
+{
+"titulo": {
+"es": "Tres Leones",
+"en": "Three Lions",
+"pt": "Três Leões",
+"zh": "三狮军团之歌",
+"ja": "スリー・ライオンズ"
+},
+"pais": "Inglaterra",
+"letra": {
+"es": "It’s coming home\nIt’s coming home\nEl fútbol vuelve a casa",
+"en": "it´s coming here\nit´s coming here\nit´s coming\nFootball's coming here",
+"pt": "Está voltando pra casa\nEstá voltando pra casa\nO futebol está voltando pra casa",
+"zh": "它要回家了\n它要回家了\n足球正在回家",
+"ja": "それは帰ってくる\nそれは帰ってくる\nフットボールが帰ってくる"
+},
+"url": "https://youtu.be/oyoy2_7FegI?list=RDoyoy2_7FegI&t=33",
+"nro": 38
+},
+{
+"titulo": {
+"es": "¡Está en marcha!",
+"en": "It's On",
+"pt": "Está em andamento",
+"zh": "开始了",
+"ja": "始まった"
+},
+"pais": "Arabia Saudita",
+"letra": {
+"es": "Arabia Saudita en la cancha\nOrgullo, pasión y entrega en cada partido.",
+"en": "Saudi Arabia on the pitch\nPride, passion and commitment in every match.",
+"pt": "Arábia Saudita em campo\nOrgulho, paixão e dedicação em cada jogo.",
+"zh": "沙特阿拉伯在球场上\n每一场比赛都充满骄傲与激情。",
+"ja": "サウジアラビアはピッチに立つ\nすべての試合に誇りと情熱と献身を。"
+},
+"url": "https://www.youtube.com/watch?v=nU0FX4os3zY",
+"nro": 39
+},
+{
+"titulo": {
+"es": "Rap de Babirocky (Costa de Marfil)",
+"en": "Babirocky Rap (Ivory Coast)",
+"pt": "Rap do Babirocky (Costa do Marfim)",
+"zh": "巴比罗基说唱（科特迪瓦）",
+"ja": "バビロッキーのラップ（コートジボワール）"
+},
+"pais": "Costa de Marfil",
+"letra": {
+"es": "Costa de Marfil en la cancha\nRap, ritmo y orgullo africano en cada partido.",
+"en": "Ivory Coast on the pitch\nRap, rhythm and African pride in every match.",
+"pt": "Costa do Marfim em campo\nRap, ritmo e orgulho africano em cada jogo.",
+"zh": "科特迪瓦在球场上\n说唱、节奏与非洲的骄傲。",
+"ja": "コートジボワールはピッチに立つ\nラップとリズムとアフリカの誇り。"
+},
+"url": "https://www.youtube.com/watch?v=IEzy-KkVv8Q",
+"nro": 40
+},
+{
+"titulo": {
+"es": "Waka Waka Senegal",
+"en": "Waka Waka Senegal",
+"pt": "Waka Waka Senegal",
+"zh": "瓦卡瓦卡 塞内加尔",
+"ja": "ワカワカ セネガル"
+},
+"pais": "Senegal",
+"letra": {
+"es": "Senegal en la cancha\nFuerza, ritmo y orgullo africano en el fútbol.",
+"en": "Senegal on the pitch\nStrength, rhythm and African pride in football.",
+"pt": "Senegal em campo\nForça, ritmo e orgulho africano no futebol.",
+"zh": "塞内加尔在球场上\n力量、节奏与非洲的骄傲。",
+"ja": "セネガルはピッチに立つ\n力とリズムとアフリカの誇り。"
+},
+"url": "https://www.youtube.com/watch?v=-_5nlS_pxIk",
+"nro": 41
+},
+{
+"titulo": {
+"es": "¡Vamos los Azules! ¡Vamos Francia!",
+"en": "Come on Blues! Come on France!",
+"pt": "Vamos Azuis! Vamos França!",
+"zh": "加油蓝衣军团！加油法国！",
+"ja": "頑張れブルーズ！頑張れフランス！"
+},
+"pais": "Francia",
+"letra": {
+"es": "¡Vamos los Azules! ¡Vamos Francia!\nOrgullo, pasión y fuerza en la cancha.",
+"en": "Come on Blues! Come on France!\nPride, passion and strength on the pitch.",
+"pt": "Vamos Azuis! Vamos França!\nOrgulho, paixão e força em campo.",
+"zh": "加油蓝衣军团！加油法国！\n球场上的骄傲、激情与力量。",
+"ja": "頑張れブルーズ！頑張れフランス！\nピッチでの誇りと情熱と力。"
+},
+"url": "https://www.youtube.com/watch?v=UQ1f6zi7yLA",
+"nro": 42
+},
+{
+"titulo": {
+"es": "Versión del entrenador (Izbornikova Verzija)",
+"en": "Coach's Version (Izbornikova Verzija)",
+"pt": "Versão do treinador (Izbornikova Verzija)",
+"zh": "教练版（Izbornikova版本）",
+"ja": "監督バージョン（イズボルニコヴァ版）"
+},
+"pais": "Croacia",
+"letra": {
+"es": "Croacia en la cancha\nDisciplina, corazón y orgullo en cada partido.",
+"en": "Croatia on the pitch\nDiscipline, heart and pride in every match.",
+"pt": "Croácia em campo\nDisciplina, coração e orgulho em cada jogo.",
+"zh": "克罗地亚在球场上\n纪律、心与骄傲贯穿每一场比赛。",
+"ja": "クロアチアはピッチに立つ\n規律と心と誇りをすべての試合に。"
+},
+"url": "https://www.youtube.com/watch?v=9TwbDf2UB8I",
+"nro": 43
+},
+{
+"titulo": {
+"es": "Portugal está listo",
+"en": "Portugal is Ready",
+"pt": "Portugal está pronto",
+"zh": "葡萄牙已准备好",
+"ja": "ポルトガルは準備万端"
+},
+"pais": "Portugal",
+"letra": {
+"es": "Portugal está listo\nOrgullo, talento y pasión en la cancha.",
+"en": "Portugal is ready\nPride, talent and passion on the pitch.",
+"pt": "Portugal está pronto\nOrgulho, talento e paixão em campo.",
+"zh": "葡萄牙已准备好\n球场上的骄傲、天赋与激情。",
+"ja": "ポルトガルは準備万端\nピッチでの誇りと才能と情熱。"
+},
+"url": "https://www.youtube.com/watch?v=sNzgNTuF8ZM",
+"nro": 44
+},
+{
+"titulo": {
+"es": "¡Todo por Noruega!",
+"en": "Alt for Norge!",
+"pt": "Tudo pela Noruega!",
+"zh": "一切为了挪威！",
+"ja": "ノルウェーのためにすべてを"
+},
+"pais": "Noruega",
+"letra": {
+"es": "¡Alt for Norge!\nOrgullo, fuerza y unidad en la cancha.",
+"en": "Alt for Norge!\nPride, strength and unity on the pitch.",
+"pt": "Alt for Norge!\nOrgulho, força e união em campo.",
+"zh": "一切为了挪威！\n球场上的骄傲、力量与团结。",
+"ja": "ノルウェーのためにすべてを！\nピッチでの誇りと力と団結。"
+},
+"url": "https://www.youtube.com/watch?v=IEyQlaw9nuk",
+"nro": 45
+},
+{
+"titulo": {
+"es": "Himno de Alemania",
+"en": "Anthem of Germany",
+"pt": "Hino da Alemanha",
+"zh": "德国国歌",
+"ja": "ドイツのアンセム"
+},
+"pais": "Alemania",
+"letra": {
+"es": "¡Unidad y justicia y libertad\npara la patria alemana!\nTodos persigamos esto\nfraternalmente con pasión y acción!",
+"en": "Unity and justice and freedom\nfor the German fatherland!\nLet us all strive for this\nfraternally with passion and action!",
+"pt": "Unidade e justiça e liberdade\npara a pátria alemã!\nTodos busquemos isso\nfraternalmente com paixão e ação!",
+"zh": "团结、正义与自由\n献给德国祖国！\n让我们共同追求这一目标\n以热情与行动团结前行！",
+"ja": "統一と正義と自由を\nドイツの祖国に！\n私たちは皆それを目指し\n情熱と行動で兄弟のように進もう！"
+},
+"url": "https://www.youtube.com/watch?v=noOHMo6HTjo",
+"nro": 46
+},
+{
+"titulo": {
+"es": "¡Hup Holanda! ¡Hup!",
+"en": "Hup Holland! Hup",
+"pt": "Hup Holanda! Hup",
+"zh": "加油荷兰！加油！",
+"ja": "フップ・ホランド！フップ！"
+},
+"pais": "Países Bajos",
+"letra": {
+"es": "¡Hup Holanda! ¡Hup!\nOrgullo, naranja y pasión en la cancha.",
+"en": "Hup Holland! Hup\nPride, orange and passion on the pitch.",
+"pt": "Hup Holanda! Hup\nOrgulho, laranja e paixão em campo.",
+"zh": "加油荷兰！加油！\n球场上的橙色骄傲与激情。",
+"ja": "フップ・ホランド！フップ！\nオレンジの誇りと情熱をピッチに。"
+},
+"url": "https://www.youtube.com/watch?v=ue2q-SrLOHE",
+"nro": 47
+},
+{
+"titulo": {
+"es": "Bélgica: Ataque perfecto",
+"en": "Belgium: Perfect Attack",
+"pt": "Bélgica: Ataque perfeito",
+"zh": "比利时：完美进攻",
+"ja": "ベルギー：完璧な攻撃"
+},
+"pais": "Bélgica",
+"letra": {
+"es": "Bélgica en la cancha\nVelocidad, talento y ataque perfecto en cada jugada.",
+"en": "Belgium on the pitch\nSpeed, talent and perfect attack in every play.",
+"pt": "Bélgica em campo\nVelocidade, talento e ataque perfeito em cada jogada.",
+"zh": "比利时在球场上\n速度、天赋与完美进攻。",
+"ja": "ベルギーはピッチに立つ\nスピード、才能、そして完璧な攻撃。"
+},
+"url": "https://www.youtube.com/watch?v=rV3phRCu2eI",
+"nro": 48
+},
+{
+"titulo": {
+"es": "¡Jean-Marie!",
+"en": "Jean-Marie!",
+"pt": "Jean-Marie!",
+"zh": "让-马里！",
+"ja": "ジャン＝マリー！"
+},
+"pais": "Bélgica",
+"letra": {
+"es": "¡Jean-Marie!\nCántico de hinchada y apoyo desde las tribunas en Bélgica.",
+"en": "Jean-Marie!\nA stadium chant and fan support from the Belgian stands.",
+"pt": "Jean-Marie!\nUm canto de torcida e apoio das arquibancadas na Bélgica.",
+"zh": "让-马里！\n来自比利时看台的球迷助威歌。",
+"ja": "ジャン＝マリー！\nベルギーのスタンドからの応援チャント。"
+},
+"url": "https://www.youtube.com/watch?v=XhYlBMM2rv0",
+"nro": 49
+},
+{
+"titulo": {
+"es": "Himno del FK Austria Wien",
+"en": "FK Austria Wien Anthem",
+"pt": "Hino do FK Austria Wien",
+"zh": "奥地利维也纳足球俱乐部队歌",
+"ja": "FKアウストリア・ウィーンのアンセム"
+},
+"pais": "Austria",
+"letra": {
+"es": "FK Austria Wien en la cancha\nTradición, orgullo y pasión en cada partido.",
+"en": "FK Austria Wien on the pitch\nTradition, pride and passion in every match.",
+"pt": "FK Austria Wien em campo\nTradição, orgulho e paixão em cada jogo.",
+"zh": "奥地利维也纳足球俱乐部在球场上\n传统、骄傲与激情。",
+"ja": "FKアウストリア・ウィーンはピッチに立つ\n伝統と誇りと情熱をすべての試合に。"
+},
+"url": "https://www.youtube.com/watch?v=iWLsRt--Qa0",
+"nro": 50
+},
+{
+"titulo": {
+"es": "Suiza: corazón rojo, mente fría",
+"en": "Switzerland: Red Heart, Cold Mind",
+"pt": "Suíça: coração vermelho, mente fria",
+"zh": "瑞士：红色之心，冷静之心",
+"ja": "スイス：赤い心と冷静な心"
+},
+"pais": "Suiza",
+"letra": {
+"es": "Luces rojas sobre el mar\nSuiza juega con calma, precisión y corazón.",
+"en": "Red lights over the sea\nSwitzerland plays with calm, precision and heart.",
+"pt": "Luzes vermelhas sobre o mar\nA Suíça joga com calma, precisão e coração.",
+"zh": "海面上的红色灯光\n瑞士以冷静、精准与热血比赛。",
+"ja": "海の上の赤い光\nスイスは冷静さと精度と心で戦う。"
+},
+"url": "https://www.youtube.com/watch?v=3zAowDsCOWE",
+"nro": 51
+},
+{
+"titulo": {
+"es": "La Roja Baila (Himno Oficial de la Selección Española)",
+"en": "La Roja Baila (Spain National Team Anthem)",
+"pt": "La Roja Baila (Hino da Seleção Espanhola)",
+"zh": "红色之舞（西班牙国家队之歌）",
+"ja": "ラ・ロハ・バイラ（スペイン代表アンセム）"
+},
+"pais": "España",
+"letra": {
+"es": "Gritaremos con más fuerza una vez más\nEspaña en la cancha, pasión sin final.",
+"en": "We will shout even louder once again\nSpain on the pitch, endless passion.",
+"pt": "Gritaremos com mais força mais uma vez\nEspanha em campo, paixão sem fim.",
+"zh": "我们再次更大声地呐喊\n西班牙在球场上，激情无尽。",
+"ja": "もう一度もっと強く叫ぼう\nスペインはピッチで情熱を燃やす。"
+},
+"url": "https://www.youtube.com/watch?v=g7f6pHtis4o",
+"nro": 52
+},
+{
+"titulo": {
+"es": "La Roja Va",
+"en": "La Roja Goes",
+"pt": "A Roja Vai",
+"zh": "红衣军团前进",
+"ja": "ラ・ロハが行く"
+},
+"pais": "España",
+"letra": {
+"es": "Sueños en la grada\nFuego en la piel",
+"en": "Dreams in the stands\nFire on the skin",
+"pt": "Sonhos na arquibancada\nFogo na pele",
+"zh": "看台上的梦想\n燃烧的激情",
+"ja": "スタンドの夢\n肌に宿る炎"
+},
+"url": "https://www.youtube.com/watch?v=Ah0v9s48zqA&list=RDAh0v9s48zqA&start_radio=1",
+"nro": 53
+},
+{
+"titulo": {
+"es": "Sube la marea",
+"en": "Rise the Tide",
+"pt": "Sobe a maré",
+"zh": "潮水上涨",
+"ja": "潮が上がる"
+},
+"pais": "Panamá",
+"letra": {
+"es": "Sube la marea\nQue representa mi bandera",
+"en": "The tide rises\nThat represents my flag",
+"pt": "Sobe a maré\nQue representa minha bandeira",
+"zh": "潮水上涨\n代表着我的国旗",
+"ja": "潮が上がる\nそれは私の国旗を象徴する"
+},
+"url": "https://www.youtube.com/watch?v=Tlzn5YQH3as&list=RDTlzn5YQH3as&start_radio=1",
+"nro": 54
+},
+{
+"titulo": {
+"es": "¡Haití, levántate!",
+"en": "Haiti, rise up!",
+"pt": "Haiti, levanta-te!",
+"zh": "海地，站起来！",
+"ja": "ハイチよ、立ち上がれ！"
+},
+"pais": "Haití",
+"letra": {
+"es": "¡Haití, levántate!",
+"en": "Haiti, rise up!",
+"pt": "Haiti, levanta-te!",
+"zh": "海地，站起来！",
+"ja": "ハイチよ、立ち上がれ！"
+},
+"url": "https://www.youtube.com/watch?v=cNFa6biAxu4",
+"nro": 55
+},
+{
+"titulo": {
+"es": "Curaçao rumbo al Mundial 2026",
+"en": "Curaçao FIFA World Cup 2026 Song",
+"pt": "Curaçao rumo à Copa do Mundo 2026",
+"zh": "库拉索2026世界杯之歌",
+"ja": "キュラソー2026ワールドカップソング"
+},
+"pais": "Curaçao",
+"letra": {
+"es": "Esto es más que una canción\nEs un sueño\nEs una lucha\nEs historia en construcción",
+"en": "This is more than just a song\nIt’s a dream\nIt’s a fight\nIt’s history in the making",
+"pt": "Isso é mais do que uma música\nÉ um sonho\nÉ uma luta\nÉ história sendo construída",
+"zh": "这不仅仅是一首歌\n这是一个梦想\n这是一场奋斗\n这是正在书写的历史",
+"ja": "これはただの歌ではない\nそれは夢\nそれは戦い\nそれは作られている歴史"
+},
+"url": "https://www.youtube.com/watch?v=sVdAzrfhAjY",
+"nro": 56
+},
+{
+"titulo": {
+"es": "Azul y amarillo para siempre",
+"en": "Blue and Yellow Forever",
+"pt": "Azul e amarelo para sempre",
+"zh": "蓝与黄永远",
+"ja": "青と黄色は永遠に"
+},
+"pais": "Suecia",
+"letra": {
+"es": "Azul y amarillo para siempre\nOrgullo sueco en la cancha.",
+"en": "Blue and Yellow Forever\nSwedish pride on the pitch.",
+"pt": "Azul e amarelo para sempre\nOrgulho sueco em campo.",
+"zh": "蓝与黄永远\n球场上的瑞典骄傲。",
+"ja": "青と黄色は永遠に\nピッチ上のスウェーデンの誇り。"
+},
+"url": "https://www.youtube.com/watch?v=JikLeLd5SyI",
+"nro": 57
+},
+{
+"titulo": {
+"es": "Que la tierra y el cielo retumben",
+"en": "Let the earth and sky tremble",
+"pt": "Que a terra e o céu tremam",
+"zh": "让天地震动",
+"ja": "大地と空を震わせよ"
+},
+"pais": "Turquía",
+"letra": {
+"es": "Que la tierra y el cielo retumben\nTurquía en la cancha, pasión total.",
+"en": "Let the earth and sky tremble\nTurkey on the pitch, full passion.",
+"pt": "Que a terra e o céu tremam\nTurquia em campo, paixão total.",
+"zh": "让天地震动\n土耳其在球场上，全情投入。",
+"ja": "大地と空を震わせよ\nトルコはピッチで情熱を燃やす。"
+},
+"url": "https://www.youtube.com/watch?v=3Y2Hgp-DmOg",
+"nro": 58
+},
+{
+"titulo": {
+"es": "Azul, Blanco, Rojo",
+"en": "Blue, White, Red",
+"pt": "Azul, Branco, Vermelho",
+"zh": "蓝、白、红",
+"ja": "青・白・赤"
+},
+"pais": "República Checa",
+"letra": {
+"es": "Azul, Blanco, Rojo\nOrgullo checo en la cancha.",
+"en": "Blue, White, Red\nCzech pride on the pitch.",
+"pt": "Azul, Branco, Vermelho\nOrgulho tcheco em campo.",
+"zh": "蓝、白、红\n捷克在球场上的骄傲。",
+"ja": "青・白・赤\nチェコの誇りをピッチに。"
+},
+"url": "https://www.youtube.com/watch?v=obPq0ZB9I4Q&list=RDobPq0ZB9I4Q&start_radio=1",
+"nro": 59
+},
+{
+"titulo": {
+"es": "¡Juega Bosnia!",
+"en": "Play Bosnia",
+"pt": "Joga Bósnia",
+"zh": "为波斯尼亚而战",
+"ja": "ボスニアよ戦え"
+},
+"pais": "Bosnia y Herzegovina",
+"letra": {
+"es": "¡Juega Bosnia!\nOrgullo en la cancha.",
+"en": "Play Bosnia\nPride on the pitch.",
+"pt": "Joga Bósnia\nOrgulho em campo.",
+"zh": "为波斯尼亚而战\n球场上的骄傲。",
+"ja": "ボスニアよ戦え\nピッチでの誇り。"
+},
+"url": "https://www.youtube.com/watch?v=svrttrmTWGY&list=RDsvrttrmTWGY&start_radio=1",
+"nro": 60
+},
+{
+"titulo": {
+"es": "¡Los Leopardos vuelven a rugir!",
+"en": "Leopards Rise Again!",
+"pt": "Os leopardos voltam a rugir!",
+"zh": "猎豹再次崛起！",
+"ja": "ヒョウたちが再び立ち上がる！"
+},
+"pais": "República Democrática del Congo",
+"letra": {
+"es": "¡Los leopardos vuelven a rugir!\nOrgullo africano en la cancha.",
+"en": "Leopards rise again\nAfrican pride on the pitch.",
+"pt": "Os leopardos voltam a rugir\nOrgulho africano em campo.",
+"zh": "猎豹再次崛起\n非洲在球场上的骄傲。",
+"ja": "ヒョウたちが再び立ち上がる\nピッチ上のアフリカの誇り。"
+},
+"url": "https://www.youtube.com/watch?v=cjA1rLKM5js&list=RDcjA1rLKM5js&start_radio=1",
+"nro": 61
+},
+{
+"titulo": {
+"es": "Himno del Mundial de Irak",
+"en": "IRAQ WORLD CUP ANTHEM",
+"pt": "Hino da Copa do Mundo do Iraque",
+"zh": "伊拉克世界杯之歌",
+"ja": "イラクワールドカップアンセム"
+},
+"pais": "Irak",
+"letra": {
+"es": "Irak, pasión en la cancha\nOrgullo de una nación.",
+"en": "Iraq, passion on the pitch\nPride of a nation.",
+"pt": "Iraque, paixão em campo\nOrgulho de uma nação.",
+"zh": "伊拉克，在球场上的激情\n一个国家的骄傲。",
+"ja": "イラク、ピッチ上の情熱\n国家の誇り。"
+},
+"url": "https://www.youtube.com/watch?v=A-m2kPP2ay8&list=RDA-m2kPP2ay8&start_radio=1",
+"nro": 62
+},
+  {
+    "titulo": {
+      "es": "Dai Dai (Canción oficial Mundial 2026 FIFA)",
+      "en": "Dai Dai (FIFA World Cup 2026 Official Song)",
+      "pt": "Dai Dai (Canção oficial da Copa do Mundo FIFA 2026)",
+      "zh": "Dai Dai（2026世界杯官方歌曲）",
+      "ja": "ダイ・ダイ（FIFAワールドカップ2026公式ソング）"
     },
+    "pais": "Internacional (FIFA)",
+    "letra": {
+      "es": "Canción oficial del Mundial 2026\nPasión por el fútbol mundial.",
+      "en": "Official song of the 2026 World Cup\nGlobal football passion.",
+      "pt": "Canção oficial da Copa do Mundo 2026\nPaixão global pelo futebol.",
+      "zh": "2026世界杯官方歌曲\n全球足球激情。",
+      "ja": "2026年ワールドカップ公式ソング\n世界のサッカーの情熱。"
+    },
+    "url": "https://www.youtube.com/watch?v=WaIpa_G0l-U&list=RDWaIpa_G0l-U&start_radio=1",
+    "nro": 63
+  },
     {
       "titulo": {
-        "es": "La cuarta Estrella",
-        "en": "The Fourth Star",
-        "pt": "A quarta estrela",
-        "zh": "第四颗星",
-        "ja": "第四の星"
+        "es": "Muchachos",
+        "en": "Boys (Muchachos)",
+        "pt": "Rapazes (Muchachos)",
+        "zh": "伙计们（Muchachos）",
+        "ja": "ムチャーチョス"
       },
       "pais": "Argentina",
       "letra": {
-        "es": "Soy hincha...",
-        "en": "I'm a fan...",
-        "pt": "Sou fã...",
-        "zh": "我是球迷...",
-        "ja": "私はファンです..."
+        "es": "En Argentina nací, tierra de Diego y Lionel",
+        "en": "I was born in Argentina, land of Diego and Lionel",
+        "pt": "Nasci na Argentina, terra de Diego e Lionel",
+        "zh": "我出生在阿根廷，迭戈和梅西的土地",
+        "ja": "アルゼンチンに生まれた、ディエゴとリオネルの地"
       },
-      "url": "https://www.youtube.com/shorts/rMzA7esUh1A"
+      "url": "https://www.youtube.com/watch?v=i4t1bGD-j9M&list=RDi4t1bGD-j9M&start_radio=1",
+      "nro": 64
     },
     {
       "titulo": {
-        "es": "Vamos, Vamos, Argentina",
-        "en": "Let's Go Argentina",
-        "pt": "Vamos Argentina",
-        "zh": "加油阿根廷",
-        "ja": "行け行けアルゼンチン"
+        "es": "Muchachos, ya ganamos la tercera",
+        "en": "Boys, we already won the third",
+        "pt": "Rapazes, já ganhamos a terceira",
+        "zh": "伙计们，我们已经赢得了第三座冠军",
+        "ja": "ムチャーチョス、すでに3回目を勝ち取った"
       },
       "pais": "Argentina",
       "letra": {
-        "es": "Vamos vamos Argentina...",
-        "en": "Let's go Argentina...",
-        "pt": "Vamos Argentina...",
-        "zh": "阿根廷加油...",
-        "ja": "行け行けアルゼンチン..."
+        "es": "En Argentina nací, tierra de Diego y Lionel",
+        "en": "I was born in Argentina, land of Diego and Lionel",
+        "pt": "Nasci na Argentina, terra de Diego e Lionel",
+        "zh": "我出生在阿根廷，迭戈和梅西的土地",
+        "ja": "アルゼンチンに生まれた、ディエゴとリオネルの地"
       },
-      "url": "https://www.youtube.com/shorts/eV4NaqyItxA"
-    },
-    {
-      "titulo": {
-        "es": "Alma Argentina",
-        "en": "Argentine Soul",
-        "pt": "Alma Argentina",
-        "zh": "阿根廷之魂",
-        "ja": "アルゼンチンの魂"
-      },
-      "pais": "Argentina",
-      "letra": {
-        "es": "...Vaya al frente Argentina...",
-        "en": "...Go forward Argentina...",
-        "pt": "...Vá para frente Argentina...",
-        "zh": "...勇往直前，阿根廷...",
-        "ja": "...前へ進めアルゼンチン..."
-      },
-      "url": "https://www.youtube.com/watch?v=ww_W-7u-qlA&list=PLKgxOpWIE-q_2yU9hwNE0IxFGUvwj8lk7"
-    },
-    {
-      "titulo": {
-        "es": "No Veo La Hora Que Llegue El Domingo",
-        "en": "I Can't Wait for Sunday to Come",
-        "pt": "Não vejo a hora de chegar o domingo",
-        "zh": "我等不及星期天到来",
-        "ja": "日曜日が来るのが待ちきれない"
-      },
-      "pais": "River Plate",
-      "letra": {
-        "es": "No veo la hora\nQue llegue el domingo\nDejo todo lo que tengo que hacer\nMe voy a ver a River Plate",
-        "en": "I can't wait\nFor Sunday to come\nI leave everything I have to do\nI'm going to see River Plate",
-        "pt": "Não vejo a hora\nDe chegar o domingo\nDeixo tudo o que tenho que fazer\nVou ver o River Plate",
-        "zh": "我等不及了\n星期天快点到来\n放下所有要做的事\n我要去看河床队",
-        "ja": "待ちきれない\n日曜日が来るのを\nやるべきことは全部置いて\nリーベル・プレートを見に行く"
-      },
-      "url": "https://www.youtube.com/shorts/rAu-9lxgyDc"
-    },
-    {
-      "titulo": {
-        "es": "La mano de Dios",
-        "en": "The Hand of God",
-        "pt": "A mão de Deus",
-        "zh": "上帝之手",
-        "ja": "神の手"
-      },
-      "pais": "Maradona",
-      "letra": {
-        "es": "Olé, olé, olé, olé\nDiego, Diego",
-        "en": "Olé, olé, olé, olé\nDiego, Diego",
-        "pt": "Olé, olé, olé, olé\nDiego, Diego",
-        "zh": "Olé，olé，olé，olé\n迭戈，迭戈",
-        "ja": "オレ、オレ、オレ、オレ\nディエゴ、ディエゴ"
-      },
-      "url": "https://www.youtube.com/watch?v=vmVtgmgLPzw&list=RDvmVtgmgLPzw&start_radio=1"
-    },
-    {
-      "titulo": {
-        "es": "Sin Escocia No Hay Fiesta",
-        "en": "Without Scotland There Is No Party",
-        "pt": "Sem a Escócia não há festa",
-        "zh": "没有苏格兰就没有派对",
-        "ja": "スコットランドなしではパーティーはない"
-      },
-      "pais": "Escocia",
-      "letra": {
-        "es": "In the land where thistles sway, and the sound of bagpipes play",
-        "en": "In the land where thistles sway, and the sound of bagpipes play",
-        "pt": "Na terra onde os cardos se movem, e o som das gaitas de foles toca",
-        "zh": "在蓟草摇曳的土地上，风笛声在回荡",
-        "ja": "アザミが揺れる国で、バグパイプの音が響く"
-      },
-      "url": "https://www.youtube.com/watch?v=k1hhMTMM3to&list=RDk1hhMTMM3to&start_radio=1"
-    },
-    {
-      "titulo": {
-        "es": "Ole Ole Ola!",
-        "en": "Ole Ole Ola!",
-        "pt": "Ole Ole Ola!",
-        "zh": "Ole Ole Ola！",
-        "ja": "オレオレオラ！"
-      },
-      "pais": "Argentina",
-      "letra": {
-        "es": "Soy de Argentina, es un sentimiento no puedo parar...",
-        "en": "I'm from Argentina, it's a feeling I can't stop...",
-        "pt": "Sou da Argentina, é um sentimento que não posso parar...",
-        "zh": "我是阿根廷人，这是一种无法停止的感觉...",
-        "ja": "アルゼンチン出身だ、止められない気持ちがある..."
-      },
-      "url": "https://www.youtube.com/watch?v=YTnRlJTusME&list=RDYTnRlJTusME&start_radio=1"
-    },
-    {
-      "titulo": {
-        "es": "Corazón Verde y Amarillo",
-        "en": "Green and Yellow Heart",
-        "pt": "Coração Verde e Amarelo",
-        "zh": "绿黄之心",
-        "ja": "緑と黄色の心"
-      },
-      "pais": "Brasil",
-      "letra": {
-        "es": "La gente vibra, canta y se agita",
-        "en": "People vibrate, sing and get excited",
-        "pt": "A galera vibra, canta e se agita",
-        "zh": "人们在沸腾、歌唱、激动",
-        "ja": "人々は熱狂し、歌い、盛り上がる"
-      },
-      "url": "https://www.youtube.com/watch?v=4BvVKAUwmnE&list=RD4BvVKAUwmnE&start_radio=1"
+      "url": "https://www.youtube.com/watch?v=lLMSfa8-JUU&list=RDlLMSfa8-JUU&start_radio=1",
+      "nro": 65
     }
   ]
 }
