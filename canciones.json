@@ -1,9 +1,9 @@
 {
   "info": {
     "date_update": "2026-05-08",
-    "nro": 25.1,
-    "cant": 65,
-    "nuevaVersion": false,
+    "nro": 26.0,
+    "cant": 66,
+    "nuevaVersion": true,
     "urlPlayStore": "https://github.com/Arianus-tech/Arianus-football-songs-data/blob/main/sitioPorHacer.png",
     "habilitarCualquierFuente": true
   },
