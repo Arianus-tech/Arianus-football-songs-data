@@ -1,8 +1,8 @@
 {
   "info": {
     "date_update": "2026-05-08",
-    "nro": 26.0,
-    "cant": 66,
+    "nro": 26.1,
+    "cant": 67,
     "nuevaVersion": true,
     "urlPlayStore": "https://github.com/Arianus-tech/Arianus-football-songs-data/blob/main/sitioPorHacer.png",
     "habilitarCualquierFuente": true
@@ -1261,6 +1261,25 @@
       },
       "url": "https://www.youtube.com/shorts/ZxHSbjwflNI",
       "nro": 66
-    }
+    },
+    {
+  "titulo": {
+    "es": "Pasion y legado",
+    "en": "Passion and Legacy",
+    "pt": "Paixão e Legado",
+    "zh": "激情与传承",
+    "ja": "情熱と遺産"
+  },
+  "pais": "Uruguay",
+  "letra": {
+    "es": "De gurí me enseñaron que color tiene la gloria cuatro estrellas en el pecho herencia de nuestra historia",
+    "en": "Since I was a kid, I was taught the color of glory, four stars on the chest, a legacy of our history.",
+    "pt": "Desde criança me ensinaram qual é a cor da glória, quatro estrelas no peito, herança da nossa história.",
+    "zh": "从小他们就教我荣耀的颜色，胸前的四颗星，是我们历史的传承。",
+    "ja": "子どもの頃から栄光の色を教えられた。胸の四つの星は、私たちの歴史の遺産だ。"
+  },
+  "url": "https://www.youtube.com/shorts/ZxHSbjwflNI",
+  "nro": 67
+}
   ]
 }
