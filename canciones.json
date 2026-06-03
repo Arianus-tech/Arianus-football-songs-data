@@ -2,7 +2,7 @@
   "info": {
     "date_update": "2026-05-08",
     "nro": 26.2,
-    "cant": 67,
+    "cant": 68,
     "nuevaVersion": true,
     "urlPlayStore": "https://github.com/Arianus-tech/Arianus-football-songs-data/blob/main/sitioPorHacer.png",
     "habilitarCualquierFuente": true
@@ -1245,13 +1245,11 @@
     },
     {
       "titulo": {
-        {
           "es": "ESTRIBILLO CUMBIA DE TIM PAYNE",
           "en": "CHORUS OF TIM PAYNE CUMBIA",
           "pt": "REFRÃO DA CÚMBIA DE TIM PAYNE",
           "zh": "蒂姆·潘恩的库姆比亚副歌",
           "ja": "ティム・ペインのクンビアのサビ"
-        }
       },
       "pais": "Nueva Zelanda",
       "letra": {
