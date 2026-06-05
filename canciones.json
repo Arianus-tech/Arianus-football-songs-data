@@ -1318,6 +1318,25 @@
     },
     "url": "https://youtu.be/Mb4Al7EVa_0?si=z806D3D6qTJ1tmHa",
     "nro": 69
-    }
+    },
+    {
+  "titulo": {
+    "es": "La última gambeta, te pido Lionel",
+    "en": "The last dribble, I ask you Lionel",
+    "pt": "A última gambeta, te peço Lionel",
+    "zh": "最后的过人，我请求你莱昂内尔",
+    "ja": "最後のドリブルをお願いする、リオネル"
+  },
+  "pais": "Argentina",
+  "letra": {
+    "es": "Y ahí es cuando todos lo miran a él,\nla última gambeta te pido Lionel,\nquiero ganar la copa otra vez",
+    "en": "And that's when everyone looks at him,\nI ask you for one last dribble, Lionel,\nI want to win the cup again",
+    "pt": "E é quando todos olham para ele,\na última gambeta te peço, Lionel,\nquero ganhar a copa novamente",
+    "zh": "就在那时所有人都看向他，\n我请求你完成最后一次过人，莱昂内尔，\n我想再次赢得冠军",
+    "ja": "その時みんなが彼を見る、\n最後のドリブルをお願いする、リオネル、\nもう一度カップに勝ちたい"
+  },
+  "url": "https://www.youtube.com/watch?v=XuHKar8FMKM&list=RDXuHKar8FMKM&start_radio=1",
+  "nro": 70
+}
   ]
 }
